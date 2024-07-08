@@ -10,3 +10,5 @@ cdk.out
 pnpm-lock.yaml
 package-lock.yaml
 .editorconfig
+
+.env
